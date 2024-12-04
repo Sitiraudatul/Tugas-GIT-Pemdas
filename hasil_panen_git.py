@@ -82,3 +82,4 @@ for lokasi, data in data_panen.items():
         print(f"{data['nama_lokasi']} dalam kondisi baik.")
         
 #7. Push hasil pengerjaan kedalam GIT
+print ("Soal No.4 merge ke GIT")
