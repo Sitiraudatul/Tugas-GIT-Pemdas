@@ -1,3 +1,5 @@
+print("Ini adalah tugas pemdas")
+
 data_panen = {
     'lokasi1' : {
         'nama_lokasi' : 'Kebun A',
