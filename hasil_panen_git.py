@@ -40,7 +40,7 @@ data_panen = {
         }
     }
 }
-
+# soal no 1
 # 1. Tampilkan seluruh data dari data_panen termasuk nama lokasi dan hasil panen masing-masing.
 for lokasi, data in data_panen.items():
     print(f"ID Lokasi: {lokasi}")
