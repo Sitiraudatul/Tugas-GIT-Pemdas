@@ -1,4 +1,5 @@
-print("Ini adalah tugas pemdas")
+print("Selamat Datang")
+input("Siapa nama anda?")
 
 data_panen = {
     'lokasi1' : {
